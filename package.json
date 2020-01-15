@@ -1,0 +1,8 @@
+{
+  "name": "single-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danielkov/single-package.git",
+  "author": "Daniel Emod Kovacs <kovacsemod@gmail.com>",
+  "license": "MIT"
+}
