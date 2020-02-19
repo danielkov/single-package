@@ -43,3 +43,5 @@ Finally, make sure everything is up to date with your version control with `git 
 ```sh
 npm publish
 ```
+
+Alternatively you can use the GitHub Worflow, by triggering a release - going to Releases -> Draft a new release. This will do the above for you, as well as publish it to GitHub's NPM Mirror. If you want to use this method, you need to edit [Publish Workflow file](.github/workflows/publish.yml) by replacing `your-github-username` with your GitHub username and adding the `npm_token` secret in settings.
