@@ -5,13 +5,14 @@
   "main": "dist/index.js",
   "browser": "dist/index.umd.js",
   "module": "dist/index.module.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "./dist"
+    "/dist"
   ],
   "scripts": {
     "dev": "rollup -c -w",
     "build": "rollup -c",
-    "lint": "yarn eslint",
+    "lint": "eslint \"src/**/*.{ts,tsx}\"",
     "test": "jest",
     "sv": "standard-version"
   },

@@ -1,1 +1,3 @@
-export default () => null;
+const nullReturner = (): null => null;
+
+export default nullReturner;
