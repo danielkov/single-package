@@ -39,7 +39,7 @@
     "rollup-plugin-typescript2": "0.26.0",
     "standard-version": "7.1.0",
     "ts-jest": "25.2.1",
-    "typescript": "3.7.5"
+    "typescript": "3.8.2"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
