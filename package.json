@@ -20,8 +20,8 @@
   "author": "Daniel Emod Kovacs <kovacsemod@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.9.0",
-    "@babel/preset-env": "7.9.5",
+    "@babel/core": "7.9.6",
+    "@babel/preset-env": "7.9.6",
     "@babel/preset-typescript": "7.9.0",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
